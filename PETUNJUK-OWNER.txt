@@ -1,0 +1,8 @@
+PANDUAN PEMILIK RUANG
+1. Siapkan akun Owner melalui .env dan bootstrap_owner.py.
+2. Login di /admin/login.
+3. Dari menu Tim & Akun Admin, buat akun tim sesuai tugasnya.
+4. Bagikan kredensial masing-masing secara privat dan minta mereka mengganti kata sandi setelah sistem reset password ditambahkan.
+5. Jangan pernah berbagi akun Owner.
+6. Database lokal bernama ruang.db; backup file ini secara berkala selama pengembangan.
+7. Sebelum website online, pasang HTTPS, domain, hosting, database produksi, backup dan kebijakan privasi.
